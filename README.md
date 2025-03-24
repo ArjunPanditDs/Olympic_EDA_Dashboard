@@ -19,3 +19,4 @@ This project analyzes the **Olympic Games dataset** using **Exploratory Data Ana
 - Athlete performance trends  
 
 🔗 **Power BI Dashboard Screenshot :**  
+![collage](https://github.com/user-attachments/assets/6a6e3160-7a51-4a5f-a5c5-475d2b852d96)
